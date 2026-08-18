@@ -1,0 +1,14 @@
+:root {
+  --bg: #1b4332;
+  --text: #f8f9fa;
+  --text-muted: #d6d6d6;
+  --accent: #d18800d5;
+
+  font-family: Consolas, monospace;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
