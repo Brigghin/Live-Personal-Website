@@ -17,27 +17,3 @@ npm run build
 
 Preview the production build:
 npm run preview
-
-# Deployment Workflow
-
-The website is deployed using a CI/CD and GitOps workflow.
-
-Source Code Changes
-        ↓
-Commit to GitHub
-        ↓
-Jenkins Pipeline Triggered
-        ↓
-Build Docker Image
-        ↓
-Push Image to Azure Container Registry (ACR)
-        ↓
-Update Kubernetes Manifest
-        ↓
-Commit Changes to GitHub
-        ↓
-ArgoCD Detects Changes
-        ↓
-ArgoCD Synchronizes Cluster
-        ↓
-AKS Deploys Updated Application
