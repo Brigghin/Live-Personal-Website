@@ -4,7 +4,7 @@ This directory contains the source code for my personal portfolio website, built
 
 The website serves as a platform for showcasing projects, technical experience, certifications, and professional development in cloud infrastructure, DevOps, automation, and software development.
 
-In addition to its role as a portfolio site, this application was used as the primary workload for testing and validating a cloud-native platform built on **Azure Kubernetes Service (AKS)**. The platform incorporated Infrastructure as Code, GitOps, containerization, monitoring, secret management, and CI/CD automation practices, making the website an integral component of end-to-end platform testing and operations.
+In addition to its role as a portfolio site, this application was used as the primary workload for testing and validating my cloud-native platform built on **Azure Kubernetes Service (AKS)**. The platform incorporated Infrastructure as Code, GitOps, containerization, monitoring, secret management, and CI/CD automation practices, making the website an integral component of end-to-end platform testing and operations.
 
 ## Technology Stack
 
