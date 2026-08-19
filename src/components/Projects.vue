@@ -38,10 +38,15 @@
         </a>
         </h3>
         <p>
-          Designed and implemented a cloud-native personal website platform on
-          Azure Kubernetes Service (AKS) with CI/CD pipelines, automated deployments, and
-          infrastructure as code (IaC) using Terraform and Jenkins. The website you are
-          currently viewing is hosted on this platform.
+          Designed and built a cloud-native platform on 
+          Microsoft Azure to demonstrate modern DevOps and 
+          platform engineering practices. Leveraged Terraform 
+          for Infrastructure as Code, Azure Kubernetes Service 
+          (AKS) for container orchestration, ArgoCD for GitOps 
+          deployments, Jenkins for CI/CD automation, Azure Key 
+          Vault and External Secrets Operator for secure secret 
+          management, and Prometheus and Grafana for 
+          observability.
         </p>
       </article>
 
