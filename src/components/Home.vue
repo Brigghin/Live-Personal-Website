@@ -7,7 +7,7 @@
       <p class="intro"><span class="intro-highlight">Hi, I'm Brian</span>,</p>
 
       <h1>
-        Aspiring <span class="highlight-word">Cloud</span> &amp;
+        Aspiring <span class="highlight-word">Platform</span> &amp;
         <span class="highlight-word">DevOps</span> Engineer
       </h1>
 
